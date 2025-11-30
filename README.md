@@ -61,8 +61,8 @@ To run these simulations and notebooks locally, use the following recommended en
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/](https://github.com/)[YourUsername]/UDS-Vitillo.git
-    cd UDS-Vitillo
+    git clone https://github.com/GarryBrar/Distributed-Systems-Vitillo.git
+    cd Distributed-Systems-Vitillo
     ```
 
 2.  **Create a virtual environment (Recommended):**
